@@ -1,1 +1,1 @@
-这是基于一个imx6ull开发板的小项目，驱动源码来自Github上的开源项目
+这是基于一个imx6ull开发板的小项目，驱动源码来自Github上Uarebestzy的开源项目智能家居，在Linux这我可能才刚入门。
